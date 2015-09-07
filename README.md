@@ -1,4 +1,4 @@
-# HtmlUpperCase
+# ucfirstchar
 
 [ ![Codeship Status for JonForest/ucfirstchar](https://codeship.com/projects/71423900-37ba-0133-28e6-7214df95c63e/status?branch=master)](https://codeship.com/projects/101110)
 
