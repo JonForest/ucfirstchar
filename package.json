@@ -1,6 +1,6 @@
 {
   "name": "ucfirstchar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert first character to upper-case, even in an HTML string",
   "main": "index.js",
   "scripts": {
