@@ -1,0 +1,28 @@
+{
+  "name": "ucfirstchar",
+  "version": "0.0.1",
+  "description": "Convert first character to upper-case, even in an HTML string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonForest/HtmlUpperCase.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "uppercase"
+  ],
+  "author": "Jonathan Hollingsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonForest/HtmlUpperCase/issues"
+  },
+  "homepage": "https://github.com/JonForest/HtmlUpperCase",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.0"
+  }
+}

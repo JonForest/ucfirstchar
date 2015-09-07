@@ -1,0 +1,1 @@
+module.exports = require('./src/html_upper_case');
