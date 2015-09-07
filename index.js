@@ -1,1 +1,1 @@
-module.exports = require('./src/html_upper_case');
+module.exports = require('./src/upper_case_first');
