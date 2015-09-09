@@ -18,9 +18,9 @@
   "author": "Jonathan Hollingsworth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JonForest/HtmlUpperCase/issues"
+    "url": "https://github.com/JonForest/ucfirstchar/issues"
   },
-  "homepage": "https://github.com/JonForest/HtmlUpperCase",
+  "homepage": "https://github.com/JonForest/ucfirstchar",
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.3.0"
