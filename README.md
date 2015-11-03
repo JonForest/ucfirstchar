@@ -13,5 +13,5 @@ console.log(ucfirstchar('<b>this is a test</b>'); // <b>This is a test</b>
 
 See the unit tests for all scenarios covered.
 
-License MIT
+License ISC
 
